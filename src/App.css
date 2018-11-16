@@ -29,7 +29,7 @@ h3 {
 }
 
 .each-fade .image-container {
-  width: 75%;
+  width: 100%;
   overflow: hidden;
 }
 
@@ -44,4 +44,8 @@ h3 {
   align-items: center;
   margin: 0;
   background: #adceed;
+}
+
+img {
+  width: 100%;
 }
